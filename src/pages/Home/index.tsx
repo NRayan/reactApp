@@ -35,7 +35,7 @@ export function Home() {
   return (
     <div className="container">
       <header>
-        <h1>nome2:{inputValue}</h1>
+        <h1>Nome:{inputValue}</h1>
         <div>
           <strong>{user.name}</strong>
           <img src={user.avatar} alt="Foto de perfil" />
