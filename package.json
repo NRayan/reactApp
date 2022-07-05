@@ -1,7 +1,7 @@
 {
   "name": "reactapp",
-  "homepage": "./",
-  "private": true,
+  "homepage": "https://nrayan.github.io/reactApp/",
+  "private": false,
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
