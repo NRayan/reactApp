@@ -1,7 +1,7 @@
 {
   "name": "reactapp",
-  "homepage": "https://nrayan.github.io/reactApp/",
-  "private": false,
+  "homepage": "https://nrayan.github.io/reactApp",
+  "private": true,
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
@@ -16,6 +16,7 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
+    "gh-pages": "^4.0.0",
     "typescript": "^4.6.3",
     "vite": "^2.9.9"
   }
